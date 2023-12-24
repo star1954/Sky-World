@@ -1,0 +1,64 @@
+{
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2023-07-12 02:47:45 -0700"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-07-12 02:47:45 -0700"
+    },
+    "done": true
+  },
+  "modonomicon:modonomicon/root": {
+    "criteria": {
+      "modonomicon_present": "2023-07-12 02:47:46 -0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2023-07-12 02:47:45 -0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2023-07-12 02:47:45 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:grant_patchi_book": {
+    "criteria": {
+      "tick": "2023-07-12 02:47:46 -0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2023-07-12 02:47:45 -0700",
+      "inv_changed-diamond": "2023-07-12 02:47:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2023-07-12 02:49:26 -0700",
+      "minecraft:frozen_river": "2023-07-12 02:48:37 -0700",
+      "minecraft:birch_forest": "2023-07-12 02:48:15 -0700",
+      "minecraft:bamboo_jungle": "2023-07-12 02:49:41 -0700",
+      "minecraft:dark_forest": "2023-07-12 02:49:31 -0700",
+      "minecraft:river": "2023-07-12 02:48:35 -0700",
+      "minecraft:snowy_plains": "2023-07-12 02:49:01 -0700",
+      "minecraft:snowy_taiga": "2023-07-12 02:48:39 -0700",
+      "minecraft:forest": "2023-07-12 02:47:45 -0700",
+      "minecraft:jungle": "2023-07-12 02:49:38 -0700",
+      "minecraft:old_growth_birch_forest": "2023-07-12 02:49:28 -0700",
+      "minecraft:meadow": "2023-07-12 02:48:13 -0700",
+      "minecraft:plains": "2023-07-12 02:48:32 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

@@ -1,0 +1,14 @@
+{
+    "items": [
+      "minecraft:wheat_seeds",
+      "minecraft:melon_seeds",
+      "minecraft:pumpkin_seeds"
+    ],
+    "reload_ticks": 10,
+    "split": 6,
+    "knockback": 1.4,
+    "velocity_multiplier": 1.8,
+    "gravity_multiplier": 0.8,
+    "drag": 0.92,
+    "damage":4
+  }

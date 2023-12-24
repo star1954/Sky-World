@@ -1,0 +1,52 @@
+{
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2023-07-12 03:09:13 -0700"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-07-12 03:09:13 -0700"
+    },
+    "done": true
+  },
+  "modonomicon:modonomicon/root": {
+    "criteria": {
+      "modonomicon_present": "2023-07-12 03:09:13 -0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2023-07-12 03:09:13 -0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2023-07-12 03:09:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:grant_patchi_book": {
+    "criteria": {
+      "tick": "2023-07-12 03:09:13 -0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2023-07-12 03:09:13 -0700",
+      "inv_changed-diamond": "2023-07-12 03:09:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2023-07-12 03:09:13 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

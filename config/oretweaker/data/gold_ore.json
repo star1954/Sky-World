@@ -1,0 +1,23 @@
+{
+  "oreConfig": [
+    {
+      "ore": "minecraft:gold_ore",
+      "fillers": [
+        "ae2:quartz_ore"
+      ],
+      "distribution": "UNIFORM",
+      "minY": -64,
+      "maxY": 400,
+      "maxVeinSize": 4,
+      "spawnRate": 520,
+      "discardChanceOnAirExposure": 0,
+      "biomeFilters": {
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+          "OVERWORLD"
+        ]
+      },
+      "replace": true
+    }
+  ]
+}

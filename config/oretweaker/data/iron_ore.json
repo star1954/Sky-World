@@ -1,0 +1,23 @@
+{
+  "oreConfig": [
+    {
+      "ore": "minecraft:iron_ore",
+      "fillers": [
+        "STONE_ORE_REPLACEABLES"
+      ],
+      "distribution": "TRIANGLE",
+      "minY": -32,
+      "maxY": 256,
+      "maxVeinSize": 9,
+      "spawnRate": 90.0,
+      "discardChanceOnAirExposure": 0.0,
+      "biomeFilters": {
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+          "OVERWORLD"
+        ]
+      },
+      "replace": true
+    }
+  ]
+}

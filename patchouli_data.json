@@ -1,0 +1,65 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "hexcasting:thehexbook": {
+      "viewedEntries": [
+        "hexcasting:basics/media",
+        "hexcasting:basics/geodes",
+        "hexcasting:casting/101",
+        "hexcasting:casting/vectors",
+        "hexcasting:casting/mishaps",
+        "hexcasting:patterns/readwrite",
+        "hexcasting:casting/stack",
+        "hexcasting:casting/naming",
+        "hexcasting:casting/influences",
+        "hexcasting:items/staff",
+        "hexcasting:items/lens",
+        "hexcasting:items/spellbook",
+        "hexcasting:items/focus",
+        "hexcasting:items/abacus",
+        "hexcasting:items/decoration",
+        "hexcasting:items/jeweler_hammer",
+        "hexcasting:items/edified",
+        "hexcasting:items/scroll",
+        "hexcasting:items/slate",
+        "hexcasting:patterns/readers_guide",
+        "hexcasting:patterns/basics",
+        "hexcasting:patterns/patterns_as_iotas",
+        "hexcasting:patterns/stackmanip",
+        "hexcasting:patterns/advanced_math",
+        "hexcasting:patterns/sets",
+        "hexcasting:patterns/meta",
+        "hexcasting:items/hexcasting"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:generating_flowers/endoflame",
+        "botania:generating_flowers/hydroangeas",
+        "botania:generating_flowers/gourmaryllis",
+        "botania:generating_flowers/entropinnyum",
+        "botania:generating_flowers/munchdew",
+        "botania:generating_flowers/narslimmus",
+        "botania:generating_flowers/arcanerose",
+        "botania:generating_flowers/thermalily",
+        "botania:generating_flowers/dandelifeon",
+        "botania:generating_flowers/kekimurus",
+        "botania:generating_flowers/rafflowsia",
+        "botania:generating_flowers/shulk_me_not",
+        "botania:generating_flowers/spectrolus",
+        "botania:tools/livingwood_bow",
+        "botania:misc/starfield",
+        "botania:ender/red_string",
+        "botania:devices/mana_bomb",
+        "botania:alfhomancy/elf_resources",
+        "botania:mana/spreader",
+        "botania:mana/redstone_spreader"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

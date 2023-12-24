@@ -1,0 +1,226 @@
+
+[charge]
+	#Maximum amount of charge you spawn with.
+	#[default=200]
+	#Range: > 0
+	maxStarting = 200
+	#Determines if you can create potions that affect your charge.
+	chargePotions = true
+
+[miscellaneous]
+	#Determines which elements have a chance to cost less charge when under the Elemental Efficiency effect.
+	#[default="NATURE", "FIRE", "ENDER", "WATER", "ICE", "LIGHTNING", "PURE", "UNDEAD", "SUMMON"]
+	elementsAllowedEfficiency = ["NATURE", "FIRE", "ENDER", "WATER", "ICE", "LIGHTNING", "PURE", "UNDEAD", "SUMMON"]
+
+[chargeCosts]
+	#Cooldown time in ticks (1 second = 20 ticks) for the Freeze Breath enchantment.
+	#[default=90]
+	#Range: > 0
+	freezeBreath = 90
+	#Cooldown time in ticks (1 second = 20 ticks) for the Critical enchantment.
+	#[default=900]
+	#Range: > 0
+	critical = 900
+	#Cooldown time in ticks (1 second = 20 ticks) for the Spectral Wings enchantment.
+	#[default=1000]
+	#Range: > 0
+	spectralWings = 1000
+	#Cooldown time in ticks (1 second = 20 ticks) for the Teleport enchantment.
+	#[default=200]
+	#Range: > 0
+	teleport = 200
+	#Cooldown time in ticks (1 second = 20 ticks) for the Ring of Fire enchantment.
+	#[default=150]
+	#Range: > 0
+	ringOfFire = 150
+	#Cooldown time in ticks (1 second = 20 ticks) for the Magical Strengthening enchantment.
+	#[default=900]
+	#Range: > 0
+	magicalStrengthening = 900
+	#Cooldown time in ticks (1 second = 20 ticks) for the Cleansing enchantment.
+	#[default=400]
+	#Range: > 0
+	cleansing = 400
+	#Cooldown time in ticks (1 second = 20 ticks) for the Gills enchantment.
+	#[default=600]
+	#Range: > 0
+	gills = 600
+	#Cooldown time in ticks (1 second = 20 ticks) for the Fireball enchantment.
+	#[default=100]
+	#Range: > 0
+	lightningBolt = 100
+	#Cooldown time in ticks (1 second = 20 ticks) for the Turn Undead enchantment.
+	#[default=120]
+	#Range: > 0
+	turnUndead = 120
+	#Cooldown time in ticks (1 second = 20 ticks) for the Heal enchantment.
+	#[default=100]
+	#Range: > 0
+	heal = 100
+	#Cooldown time in ticks (1 second = 20 ticks) for the Lightning Circle enchantment.
+	#[default=200]
+	#Range: > 0
+	lightningCircle = 200
+	#Cooldown time in ticks (1 second = 20 ticks) for the Greater Heal enchantment.
+	#[default=100]
+	#Range: > 0
+	greaterHeal = 100
+	#Cooldown time in ticks (1 second = 20 ticks) for the Fireball enchantment.
+	#[default=100]
+	#Range: > 0
+	fireball = 100
+	#Cooldown time in ticks (1 second = 20 ticks) for the Create Water enchantment.
+	#[default=60]
+	#Range: > 0
+	createWater = 60
+	#Cooldown time in ticks (1 second = 20 ticks) for the Create Lava enchantment.
+	#[default=80]
+	#Range: > 0
+	createLava = 80
+	#Cooldown time in ticks (1 second = 20 ticks) for the Flame Breath enchantment.
+	#[default=90]
+	#Range: > 0
+	flameBreath = 90
+	#Cooldown time in ticks (1 second = 20 ticks) for the Necromancy enchantment.
+	#[default=100]
+	#Range: > 0
+	necromancy = 100
+	#Cooldown time in ticks (1 second = 20 ticks) for the Dragon Breath enchantment.
+	#[default=110]
+	#Range: > 0
+	dragonBreath = 110
+	#Cooldown time in ticks (1 second = 20 ticks) for the Summon Skeleton Horse enchantment.
+	#[default=80]
+	#Range: > 0
+	summonSkeletonHorse = 80
+	#Cooldown time in ticks (1 second = 20 ticks) for the Explosion enchantment.
+	#[default=120]
+	#Range: > 0
+	explosion = 120
+	#Cooldown time in ticks (1 second = 20 ticks) for the Cure Illness enchantment.
+	#[default=300]
+	#Range: > 0
+	cureIllness = 300
+	#Cooldown time in ticks (1 second = 20 ticks) for the Draconic Fireball enchantment.
+	#[default=120]
+	#Range: > 0
+	draconicFireball = 120
+	#Cooldown time in ticks (1 second = 20 ticks) for the Weather Alteration enchantment.
+	#[default=200]
+	#Range: > 0
+	weatherAlteration = 200
+	#Cooldown time in ticks (1 second = 20 ticks) for the Elemental Efficiency enchantment.
+	#[default=900]
+	#Range: > 0
+	elementalEfficiency = 900
+	#Cooldown time in ticks (1 second = 20 ticks) for the Glow enchantment.
+	#[default=80]
+	#Range: > 0
+	glow = 80
+	#Cooldown time in ticks (1 second = 20 ticks) for the Area Heal enchantment.
+	#[default=300]
+	#Range: > 0
+	areaHeal = 300
+	#Cooldown time in ticks (1 second = 20 ticks) for the Warp enchantment.
+	#[default=300]
+	#Range: > 0
+	warp = 300
+
+[exists]
+	#When set to false the Freeze Breath enchantment will not be in the game.
+	#[default=true]
+	freezeBreath = true
+	#When set to false the Critical enchantment will not be in the game.
+	#[default=true]
+	critical = true
+	#When set to false the Spectral Wings enchantment will not be in the game.
+	#[default=true]
+	spectralWings = true
+	#When set to false the Teleport enchantment will not be in the game.
+	#[default=true]
+	teleport = true
+	#When set to false the Ring of Fire enchantment will not be in the game.
+	#[default=true]
+	ringOfFire = true
+	#When set to false the Magical Strengthening enchantment will not be in the game.
+	#[default=true]
+	magicalStrengthening = true
+	#When set to false the Cleansing enchantment will not be in the game.
+	#[default=true]
+	cleansing = true
+	#When set to false the Gills enchantment will not be in the game.
+	#[default=true]
+	gills = true
+	#When set to false the Fireball enchantment will not be in the game.
+	#[default=true]
+	lightningBolt = true
+	#When set to false the Turn Undead enchantment will not be in the game.
+	#[default=true]
+	turnUndead = true
+	#When set to false the Heal enchantment will not be in the game.
+	#[default=true]
+	heal = true
+	#When set to false the Lightning Circle enchantment will not be in the game.
+	#[default=true]
+	lightningCircle = true
+	#When set to false the Greater Heal enchantment will not be in the game.
+	#[default=true]
+	greaterHeal = true
+	#When set to false the Fireball enchantment will not be in the game.
+	#[default=true]
+	fireball = true
+	#When set to false the Create Water enchantment will not be in the game.
+	#[default=true]
+	createWater = true
+	#When set to false the Create Lava enchantment will not be in the game.
+	#[default=true]
+	createLava = true
+	#When set to false the Flame Breath enchantment will not be in the game.
+	#[default=true]
+	flameBreath = true
+	#When set to false the Necromancy enchantment will not be in the game.
+	#[default=true]
+	necromancy = true
+	#When set to false the Dragon Breath enchantment will not be in the game.
+	#[default=true]
+	dragonBreath = true
+	#When set to false the Summon Skeleton Horse enchantment will not be in the game.
+	#[default=true]
+	summonSkeletonHorse = true
+	#When set to false the Explosion enchantment will not be in the game.
+	#[default=true]
+	explosion = true
+	#When set to false the Cure Illness enchantment will not be in the game.
+	#[default=true]
+	cureIllness = true
+	#When set to false the Draconic Fireball enchantment will not be in the game.
+	#[default=true]
+	draconicFireball = true
+	#When set to false the Weather Alteration enchantment will not be in the game.
+	#[default=true]
+	weatherAlteration = true
+	#When set to false the Elemental Efficiency enchantment will not be in the game.
+	#[default=true]
+	elementalEfficiency = true
+	#When set to false the Glow enchantment will not be in the game.
+	#[default=true]
+	glow = true
+	#When set to false the Area Heal enchantment will not be in the game.
+	#[default=true]
+	areaHeal = true
+	#When set to false the Warp enchantment will not be in the game.
+	#[default=true]
+	warp = true
+
+[staff]
+	#Determines how long of a cooldown is needed between firing spells.
+	#Setting this to 0 disables cooldowns.
+	#[default=30]
+	#Range: > 0
+	cooldown = 30
+	#Determines how far entities are knocked back after a melee staff hit.
+	#Setting this to 1.0 disables knockback increase.
+	#[default=2.0]
+	#Range: 1.0 ~ 1.7976931348623157E308
+	knockback = 2.0
+

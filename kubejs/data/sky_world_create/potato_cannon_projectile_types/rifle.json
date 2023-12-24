@@ -1,0 +1,13 @@
+{
+  "items": [
+    "minecraft:egg"
+  ],
+  "reload_ticks": 20,
+  "split": 1,
+  "knockback": 0.5,
+  "velocity_multiplier": 2,
+  "gravity_multiplier": 0.2,
+  "drag": 0.95,
+  "damage":10,
+  "sound_pitch": 4
+}

@@ -1,0 +1,23 @@
+{
+  "oreConfig": [
+    {
+      "ore": "ae2:quartz_ore",
+      "fillers": [
+        "STONE_ORE_REPLACEABLES"
+      ],
+      "distribution": "UNIFORM",
+      "minY": 96,
+      "maxY": 419,
+      "maxVeinSize": 24,
+      "spawnRate": 15.0,
+      "discardChanceOnAirExposure": 0.0,
+      "biomeFilters": {
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+          "OVERWORLD"
+        ]
+      },
+      "replace": true
+    }
+  ]
+}
