@@ -1,6 +1,6 @@
-[03:12:50] [INFO ] Hello, World! (You will only see this line once in console, during startup)
-[03:12:50] [INFO ] Loaded script startup_scripts:script.js in 0.186 s
-[03:12:50] [INFO ] Hello, World! (You will only see this line once in console, during startup)
-[03:12:50] [INFO ] Loaded script startup_scripts:Sea of Regret.js in 0.014 s
-[03:12:50] [INFO ] Loaded 2/2 KubeJS startup scripts in 1.802 s
-[03:12:50] [ERR  ] Error occurred while handling event 'block.registry': TypeError: Cannot find function thinTexture in object dev.latvian.mods.kubejs.block.custom.BasicBlockJS$Builder@304deefe. (startup_scripts:Sea of Regret.js#18)
+[15:26:06] [INFO ] Hello, World! (You will only see this line once in console, during startup)
+[15:26:06] [INFO ] Loaded script startup_scripts:script.js in 0.328 s
+[15:26:06] [INFO ] Hello, World! (You will only see this line once in console, during startup)
+[15:26:06] [INFO ] Loaded script startup_scripts:Sea of Regret.js in 0.002 s
+[15:26:06] [INFO ] Loaded 2/2 KubeJS startup scripts in 2.174 s
+[15:26:07] [ERR  ] Error occurred while handling event 'block.registry': TypeError: Cannot find function thinTexture in object dev.latvian.mods.kubejs.block.custom.BasicBlockJS$Builder@5aecbc80. (startup_scripts:Sea of Regret.js#18)

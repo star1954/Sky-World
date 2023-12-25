@@ -1,0 +1,11 @@
+
+[Config]
+	#Item ID whitelist.
+	items_whitelist = ["minecraft:wooden_sword", "minecraft:wooden_axe", "minecraft:stone_sword", "minecraft:stone_axe", "minecraft:iron_sword", "minecraft:iron_axe", "minecraft:golden_sword", "minecraft:golden_axe", "minecraft:diamond_sword", "minecraft:diamond_axe", "minecraft:netherite_sword", "minecraft:netherite_axe", "sophisticatedbackpacks:backpack", "sophisticatedbackpacks:iron_backpack", "sophisticatedbackpacks:gold_backpack", "sophisticatedbackpacks:diamond_backpack", "sophisticatedbackpacks:netherite_backpack", "nyfsquiver:basic_quiver", "nyfsquiver:iron_quiver", "nyfsquiver:copper_quiver", "nyfsquiver:gold_quiver", "nyfsquiver:diamond_quiver", "nyfsquiver:netherite_quiver", "toolbelt:belt"]
+	#Keeps only the items on player's hotbar, filtering by whitelist.
+	only_hotbar = false
+	#Keeps your equipped armors ignoring whitelist and only hotbar setting.
+	keep_armor = false
+	#Keeps your equipped shield ignoring whitelist and only hotbar setting.
+	keep_shield = false
+

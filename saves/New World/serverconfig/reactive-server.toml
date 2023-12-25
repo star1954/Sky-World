@@ -3,7 +3,7 @@
 [config]
 	#The seed value used to generate world-specific values. By default, it is set to your world seed on world load. If you change this, alchemy rules might change!
 	#Range: -9223372036854775808 ~ 9223372036854775807
-	seed = 8312852098504748104
+	seed = -8848430815268789509
 	#Whether to reset the seed to your world seed when loading.
 	resetSeed = false
 

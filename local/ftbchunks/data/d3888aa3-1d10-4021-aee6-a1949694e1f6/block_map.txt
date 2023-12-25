@@ -1,0 +1,6 @@
+#38DD6B minecraft:light_gray_concrete
+#DDEB9B minecraft:purple_concrete
+#025A66 minecraft:red_concrete
+#7E2654 minecraft:sandstone
+#F8955F minecraft:stone_bricks
+#B96EB4 minecraft:structure_block

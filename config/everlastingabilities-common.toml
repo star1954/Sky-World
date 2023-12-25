@@ -57,7 +57,7 @@
 
 	[ability.speed]
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained by combining totems in a crafting grid.
 		obtainableOnCraft = true
 		#The maximum ability level.
@@ -69,13 +69,13 @@
 		#Rarity of this ability.
 		rarity = 0
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 
 	[ability.haste]
 		#Rarity of this ability.
 		rarity = 0
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#The maximum ability level.
 		maxLevel = 5
 		#If this can be obtained by combining totems in a crafting grid.
@@ -83,15 +83,15 @@
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The xp required per level.
 		xpPerLevel = 15
 
 	[ability.strength]
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#If this can be obtained by combining totems in a crafting grid.
 		obtainableOnCraft = true
 		#Rarity of this ability.
@@ -109,11 +109,11 @@
 		#Rarity of this ability.
 		rarity = 0
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The maximum ability level.
 		maxLevel = 5
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained by combining totems in a crafting grid.
 		obtainableOnCraft = true
 		#The xp required per level.
@@ -123,7 +123,7 @@
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The xp required per level.
 		xpPerLevel = 50
 		#The maximum ability level.
@@ -133,7 +133,7 @@
 		#If this can be obtained by combining totems in a crafting grid.
 		obtainableOnCraft = true
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 
 	[ability.resistance]
 		#If this can be obtained by combining totems in a crafting grid.
@@ -141,7 +141,7 @@
 		#The maximum ability level.
 		maxLevel = 3
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#The xp required per level.
 		xpPerLevel = 50
 		#Rarity of this ability.
@@ -149,13 +149,13 @@
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 
 	[ability.fire_resistance]
 		#The maximum ability level.
 		maxLevel = 1
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The xp required per level.
 		xpPerLevel = 20
 		#Rarity of this ability.
@@ -165,13 +165,13 @@
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 
 	[ability.water_breathing]
 		#The xp required per level.
 		xpPerLevel = 10
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#Rarity of this ability.
@@ -181,15 +181,15 @@
 		#If this can be obtained by combining totems in a crafting grid.
 		obtainableOnCraft = true
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 
 	[ability.invisibility]
 		#The maximum ability level.
 		maxLevel = 1
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#If this can be obtained by combining totems in a crafting grid.
@@ -205,7 +205,7 @@
 		#Rarity of this ability.
 		rarity = 1
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The xp required per level.
 		xpPerLevel = 15
 		#If this can be obtained by combining totems in a crafting grid.
@@ -213,7 +213,7 @@
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 
 	[ability.absorbtion]
 		#Rarity of this ability.
@@ -223,9 +223,9 @@
 		#If this can be obtained by combining totems in a crafting grid.
 		obtainableOnCraft = true
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#The maximum ability level.
@@ -235,7 +235,7 @@
 		#Rarity of this ability.
 		rarity = 3
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The xp required per level.
 		xpPerLevel = 50
 		#If this can be obtained by combining totems in a crafting grid.
@@ -243,19 +243,19 @@
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#The maximum ability level.
 		maxLevel = 3
 
 	[ability.luck]
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The xp required per level.
 		xpPerLevel = 40
 		#The maximum ability level.
 		maxLevel = 3
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained by combining totems in a crafting grid.
 		obtainableOnCraft = true
 		#Rarity of this ability.
@@ -265,7 +265,7 @@
 
 	[ability.slowness]
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#The xp required per level.
 		xpPerLevel = 40
 		#If this can be obtained by combining totems in a crafting grid.
@@ -277,13 +277,13 @@
 		#Rarity of this ability.
 		rarity = 1
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 
 	[ability.mining_fatigue]
 		#The maximum ability level.
 		maxLevel = 3
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#The xp required per level.
 		xpPerLevel = 40
 		#Rarity of this ability.
@@ -291,7 +291,7 @@
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#If this can be obtained by combining totems in a crafting grid.
 		obtainableOnCraft = true
 
@@ -305,11 +305,11 @@
 		#The maximum ability level.
 		maxLevel = 3
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The xp required per level.
 		xpPerLevel = 50
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 
 	[ability.blindness]
 		#The xp required per level.
@@ -317,21 +317,21 @@
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The maximum ability level.
 		maxLevel = 3
 		#Rarity of this ability.
 		rarity = 2
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained by combining totems in a crafting grid.
 		obtainableOnCraft = true
 
 	[ability.hunger]
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#If this can be obtained by combining totems in a crafting grid.
 		obtainableOnCraft = true
 		#Rarity of this ability.
@@ -351,11 +351,11 @@
 		#The xp required per level.
 		xpPerLevel = 80
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The maximum ability level.
 		maxLevel = 3
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 
@@ -365,7 +365,7 @@
 		#Rarity of this ability.
 		rarity = 3
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#If this can be obtained by combining totems in a crafting grid.
@@ -373,7 +373,7 @@
 		#The maximum ability level.
 		maxLevel = 3
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 
 	[ability.wither]
 		#The maximum ability level.
@@ -387,13 +387,13 @@
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 
 	[ability.glowing]
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#The maximum ability level.
 		maxLevel = 3
 		#Rarity of this ability.
@@ -403,17 +403,17 @@
 		#If this can be obtained by combining totems in a crafting grid.
 		obtainableOnCraft = true
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The xp required per level.
 		xpPerLevel = 50
 
 	[ability.levitation]
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#The maximum ability level.
 		maxLevel = 3
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The xp required per level.
 		xpPerLevel = 75
 		#If this can be obtained by initially spawning players.
@@ -425,13 +425,13 @@
 
 	[ability.unluck]
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#Rarity of this ability.
 		rarity = 2
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The xp required per level.
 		xpPerLevel = 50
 		#If this can be obtained by combining totems in a crafting grid.
@@ -445,15 +445,15 @@
 		#The xp required per level.
 		xpPerLevel = 150
 		#If this can be obtained by combining totems in a crafting grid.
-		obtainableOnCraft = true
+		obtainableOnCraft = false
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The maximum ability level.
 		maxLevel = 1
 		#If this can be obtained by initially spawning players.
-		obtainableOnPlayerSpawn = true
+		obtainableOnPlayerSpawn = false
 
 	[ability.step_assist]
 		#The xp required per level.
@@ -463,13 +463,13 @@
 		#The maximum ability level.
 		maxLevel = 3
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#If this can be obtained by combining totems in a crafting grid.
 		obtainableOnCraft = true
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#Rarity of this ability.
 		rarity = 0
 
@@ -483,19 +483,19 @@
 		#The xp required per level.
 		xpPerLevel = 30
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 
 	[ability.bonemealer]
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The xp required per level.
 		xpPerLevel = 30
 		#If this can be obtained by combining totems in a crafting grid.
@@ -509,7 +509,7 @@
 		#Rarity of this ability.
 		rarity = 1
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The xp required per level.
 		xpPerLevel = 50
 		#The maximum ability level.
@@ -517,7 +517,7 @@
 		#Require sneak to activate.
 		requireSneak = true
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained by combining totems in a crafting grid.
 		obtainableOnCraft = true
 		#If this can be obtained by initially spawning players.
@@ -525,13 +525,13 @@
 
 	[ability.magnetize]
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The maximum ability level.
 		maxLevel = 5
 		#Rarity of this ability.
 		rarity = 1
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained by combining totems in a crafting grid.
 		obtainableOnCraft = true
 		#If this can be obtained by initially spawning players.
@@ -543,7 +543,7 @@
 		#The maximum ability level.
 		maxLevel = 4
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#The xp required per level.
 		xpPerLevel = 200
 		#If this can be obtained by combining totems in a crafting grid.
@@ -553,7 +553,7 @@
 		#Rarity of this ability.
 		rarity = 3
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 
 	[ability.slow_falling]
 		#If this can be obtained by combining totems in a crafting grid.
@@ -563,13 +563,13 @@
 		#The xp required per level.
 		xpPerLevel = 50
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The maximum ability level.
 		maxLevel = 1
 		#If this can be obtained by initially spawning players.
 		obtainableOnPlayerSpawn = true
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 
 	[ability.conduit_power]
 		#The xp required per level.
@@ -577,9 +577,9 @@
 		#Rarity of this ability.
 		rarity = 2
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#The maximum ability level.
 		maxLevel = 3
 		#If this can be obtained by initially spawning players.
@@ -597,9 +597,9 @@
 		#The maximum ability level.
 		maxLevel = 1
 		#If this can be obtained by spawning mobs.
-		obtainableOnMobSpawn = true
+		obtainableOnMobSpawn = false
 		#If this can be obtained in loot chests.
-		obtainableOnLoot = true
+		obtainableOnLoot = false
 		#Rarity of this ability.
 		rarity = 1
 

@@ -1,14 +1,16 @@
-[03:14:13] [INFO ] server_scripts:AE2.js:8: Hello, World! (You will see this line every time server resources reload)
-[03:14:13] [INFO ] Loaded script server_scripts:AE2.js in 0.001 s
-[03:14:13] [INFO ] server_scripts:Blank.js:8: Hello, World! (You will see this line every time server resources reload)
-[03:14:13] [INFO ] Loaded script server_scripts:Blank.js in 0.001 s
-[03:14:13] [INFO ] server_scripts:script.js:8: Hello, World! (You will see this line every time server resources reload)
-[03:14:13] [INFO ] Loaded script server_scripts:script.js in 0.001 s
-[03:14:13] [INFO ] Loaded 3/3 KubeJS server scripts in 0.007 s
-[03:14:13] [INFO ] Scripts loaded
-[03:14:13] [INFO ] Scanning recipes...
-[03:14:16] [INFO ] Found 6046 recipes and 0 failed recipes in 92.35 ms
-[03:14:16] [INFO ] Posted recipe events in 235.8 μs
-[03:14:16] [INFO ] Modified & removed recipes in 38.99 ms
-[03:14:16] [INFO ] Added recipes in 9.500 μs
-[03:14:16] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[16:16:29] [INFO ] server_scripts:AE2.js:8: Hello, World! (You will see this line every time server resources reload)
+[16:16:29] [INFO ] Loaded script server_scripts:AE2.js in 0.001 s
+[16:16:29] [INFO ] server_scripts:Blank.js:8: Hello, World! (You will see this line every time server resources reload)
+[16:16:29] [INFO ] Loaded script server_scripts:Blank.js in 0.001 s
+[16:16:29] [INFO ] server_scripts:DimensionalDungeons.js:8: Hello, World! (You will see this line every time server resources reload)
+[16:16:29] [INFO ] Loaded script server_scripts:DimensionalDungeons.js in 0.0 s
+[16:16:29] [INFO ] server_scripts:script.js:8: Hello, World! (You will see this line every time server resources reload)
+[16:16:29] [INFO ] Loaded script server_scripts:script.js in 0.001 s
+[16:16:29] [INFO ] Loaded 4/4 KubeJS server scripts in 0.008 s
+[16:16:29] [INFO ] Scripts loaded
+[16:16:29] [INFO ] Scanning recipes...
+[16:16:32] [INFO ] Found 6055 recipes and 0 failed recipes in 81.01 ms
+[16:16:32] [INFO ] Posted recipe events in 270.3 μs
+[16:16:32] [INFO ] Modified & removed recipes in 44.00 ms
+[16:16:32] [INFO ] Added recipes in 8.300 μs
+[16:16:32] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
